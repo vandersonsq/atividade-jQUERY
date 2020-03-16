@@ -1,0 +1,14 @@
+
+- Se inicia com a segurança da página até que o documento esteja pronto. O jQuery detecta esse estado de prontidão para o desenvolvedor.
+
+- Em seguida ele chama o botão que cada ação já tem um nome definido.
+
+- Todas as funções irão executar após o usuário (a) clicar no botão
+
+- Primeira função: assim que clicar ele chama o CSS, ele moverá o mouse para cima em 100px, posicionado próximo a janela.
+
+- Segunda função: faz a mesma função acima ao clicar, só que o mouse vai para baixo, próximo a janela.
+
+- Terceira função: ao clicar a cor dp texto do id #change_me mudará para a cor purple;
+
+- Quarta função: ao clicar, o que está contido no id #change_me irá desaparecer, se clicar novamente nele, aparecerá novamente.
